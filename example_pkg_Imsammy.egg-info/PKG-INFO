@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: example-pkg-Imsammy
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/Imsammy/well_structured_repo
+Author: Samarth
+Author-email: Samarthoffical2612@gmail.com
+License: UNKNOWN
+Description: # well_structured_repo
+        This is just a demo repo, a template loaded with most of the best repo structure practices
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
